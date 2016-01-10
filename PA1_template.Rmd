@@ -92,8 +92,6 @@ sum_ms_vl <- sum(is.na(actv$steps))
 print(sum_ms_vl)
 ```
 
-* Number of missing values: `r numMissingValues`
-
 ##### 2. Devise a strategy for filling in all of the missing values in the dataset.
 ##### 3. Create a new dataset that is equal to the original dataset but with the missing data filled in.
 ```{r}
